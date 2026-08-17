@@ -13,7 +13,7 @@ Bilgisayar Programcılığı öğrencisiyim. Python, JavaScript, HTML ve CSS ö�
 - Python ile küçük otomasyonlar ve projeler
 - JavaScript ile web geliştirme temelleri
 - HTML ve CSS ile düzenli ve güzel arayüzler
-- Yeni konular öğrenmek ve pratik yapmak
+- Yeni konular öğrenmek ve pratik yapıyorum
 
 ## Teknoloji Yığını
 
